@@ -1,0 +1,38 @@
+{
+    "data": {
+        "store"     : "Angellash",
+        "slug"      : "Angellash",
+        "phone"     : "(617) 749-7752",
+        "email"     : "baoanhdlat@gmail.com",
+        "address"   : "147 Beach St., Quincy Massachusetts 02170",
+        "state"     : "Massachusetts 02170",
+        "ward"      : "Quincy",
+        "time_1"    : "Mon: 09:00 AM - 07:00 PM",
+        "time_2"    : "Tue: Closed",
+        "time_3"    : "Web - Sat: 09:00 AM - 07:00 PM",
+        "time_4"    : "Sun: Closed"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/ANGEL-LASH-SPA-105640741947604",
+        "instagram" :   "https://www.instagram.com/angellash.us",
+        "google"    :   "https://goo.gl/maps/zzfLiGkpm6d5rstJ9", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDk3OTB8YW5nZWxsYXNoMDh8TUFfMDgxNDV8M2QwYWJjZTgzOWVkYWZhYzk5ODEwOWY0NDA4MmU4MWQ=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24185059.42440547!2d-106.8745506!3d42.2725938!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37b59ebc712b7%3A0x39386b64f0c55bcc!2sChristina&#39;s%20Hair%20Studio%20%26%20ANGELLASH!5e0!3m2!1svi!2s!4v1668659797461!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#096b6b",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "img/",
+    "domain":       "http://127.0.0.1:5500/"
+}
